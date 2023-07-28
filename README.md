@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [https://github.com/dejair-velozo/huddle-landing-page-with-single-introductory-section-master](https://github.com/dejair-velozo/huddle-landing-page-with-single-introductory-section-master)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-ZTUYJ_DzWR](https://www.frontendmentor.io/solutions/huddle-landing-page-ZTUYJ_DzWR)
 - Live Site URL: [ https://dejair-velozo.github.io/huddle-landing-page-with-single-introductory-section-master/]( https://dejair-velozo.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 
